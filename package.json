@@ -1,0 +1,16 @@
+{
+  "name": "@reactor/app",
+  "description": "Application scaffold for Reactor projects",
+  "author": "doriandres",
+  "license": "MIT",
+  "version": "0.1.0",
+  "packageManager": "yarn@4.0.1",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "dev": "yarn && yarn workspace @reactor/node dev"
+  }
+}

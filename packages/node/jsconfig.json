@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "baseUrl": "./",
+    "paths": {
+      "@reactor/core*": ["../core/*"]
+    }
+  }
+}

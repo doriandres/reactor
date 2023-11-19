@@ -1,0 +1,9 @@
+{
+  "name": "@reactor/core",
+  "author": "doriandres",
+  "license": "MIT",
+  "description": "Reactor Isomorphic project",
+  "version": "0.1.0",
+  "packageManager": "yarn@4.0.1",
+  "type": "module"
+}
